@@ -1,0 +1,31 @@
+* {
+    color: black
+}
+h1{
+    font-weight: bold;
+    font-size: 1.8em;
+}
+.fundo{
+    background-image: url("https://images.pexels.com/photos/2255935/pexels-photo-2255935.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:contain;
+    height: 100vh;
+    opacity: 0.8;
+}
+.titulo{
+    width: 25vw;
+}
+input{
+    font-size: 1em;
+}
+button i{
+    color: white;
+    cursor: pointer;
+}
+ol li{
+    font-size: 1.5em;
+}
+ol li i {
+    cursor: pointer;
+}
